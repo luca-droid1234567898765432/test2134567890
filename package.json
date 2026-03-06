@@ -1,0 +1,8 @@
+{
+  "name": "chudchat2",
+  "version": "1.0.0",
+  "description": "Ephemeral real-time chat with mini games",
+  "dependencies": {
+    "pusher": "^5.2.0"
+  }
+}
